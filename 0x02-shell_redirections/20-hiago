@@ -1,2 +1,1 @@
-#!/bin/bash
-echo Chicago | tr c C
+#!/bin/bash\ntr -d c | tr -d C
