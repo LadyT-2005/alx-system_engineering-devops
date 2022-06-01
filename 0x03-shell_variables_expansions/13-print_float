@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "%($NUM).2f
-"
+echo "%($NUM).2f '/n'"
